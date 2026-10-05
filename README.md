@@ -20,7 +20,7 @@ A web-based platform that helps students find affordable peer tutors, join study
 
 ## UX/UI Design
 
-Google Stitch design: _paste your link here_
+Google Stitch design: 
 
 ## Team
 
